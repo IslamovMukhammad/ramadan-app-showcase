@@ -6,11 +6,12 @@
 
 **🌙 Ramazon Kundaligi** is a highly interactive, beautifully designed Telegram Mini App (Web App) built to help users manage their daily routines during the holy month of Ramadan. It seamlessly integrates into Telegram, offering a native app-like experience without requiring any downloads.
 
+
 ## 📸 App Screenshots
 
-| Home  | Diary | Achievements |
+| Home Dashboard | Daily Diary | Achievements |
 |:---:|:---:|:---:|
-| ![Home](Home.png) | ![Diary](Journal.png) | ![Achievements](Stats.png) |
+| <img src="Home.png" width="75%" alt="Home"> | <img src="Journal.png" width="80%" alt="Diary"> | <img src="Stats.png" width="65%" alt="Achievements"> |
 
 
 ---
